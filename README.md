@@ -23,7 +23,8 @@ The information required includes:
 - A  Status Code of Success
 
 ## Sample JSON
-```{
+```
+{
   "slack_name": "example_name",
   "current_day": "Monday",
   "utc_time": "2023-08-21T15:04:05Z",
